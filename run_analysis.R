@@ -95,7 +95,8 @@ tidyData <- reshape2::dcast(moltenData
                             , fun.aggregate = mean)
 
 # Write output to file
-fwrite(tidyData, file = "tidy_data.csv")
+#fwrite(tidyData, file = "tidy_data.csv")
+write.table(tidyData,file="tidy_data.csv", row.names = FALSE)
 
 
 # Cleanup
