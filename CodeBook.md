@@ -206,3 +206,15 @@ This data contains the cleaned data which is formed by merging the test and trai
 87 data-source                                         
 88 activity-id                                         
 89 activity-name
+
+## Activities
+Below are the various activity types present in the data.
+
+|Activity ID | Activity Name | Description |
+| --- | --- | --- |
+| 1 | WALKING | Subject was walking during the test |
+| 2 | WALKING_UPSTAIRS  | Subject was walking upstairs during the test |
+| 3 | WALKING_DOWNSTAIRS  | Subject was walking downstairs during the test |
+| 4 | SITTING  | Subject was sitting during the test |
+| 5 | STANDING  | Subject was standing during the test |
+| 6 | LAYING  | Subject was laying during the test |
