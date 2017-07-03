@@ -21,7 +21,8 @@ The below transformations have been applied to the original datasets, for making
 | Freq | -frequency |
 
 ## DataSet  - tidydata (file - tidydata.csv)
-* This data contains the final output data
+This data contains the final output data which is aggregated by subject and activity. Variable names are listed below
+
 1	subjects  
 2	activityname  
 3	time-body-accelerometer-mean-X  
@@ -112,6 +113,8 @@ The below transformations have been applied to the original datasets, for making
 88	angle-Z-gravity-mean  
 
 ## DataSet  - fDataTrimmed (file - None)
+This data contains the cleaned data which is formed by merging the test and training data, adding activity names and filtering out mean and standard deviation columns. Variable names are listed below
+
  1 time-body-accelerometer-mean-X                      
  2 time-body-accelerometer-mean-Y                      
  3 time-body-accelerometer-mean-Z                      
