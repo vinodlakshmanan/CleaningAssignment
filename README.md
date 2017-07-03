@@ -22,6 +22,7 @@ Using the wearable data present  [here](https://d396qusza40orc.cloudfront.net/ge
 This dataset represents data collected from Samsung Galaxy S smartphones. Refer below files for description of the data:
 * **[README.txt](https://github.com/vinodlakshmanan/CleaningAssignment/blob/master/getdata_projectfiles_UCI%20HAR%20Dataset/UCI%20HAR%20Dataset/README.txt)**: Description of the project and its data. Contains links to other files within the project
 * **[features_info.txt](https://github.com/vinodlakshmanan/CleaningAssignment/blob/master/getdata_projectfiles_UCI%20HAR%20Dataset/UCI%20HAR%20Dataset/features_info.txt)**: Description of the various features present in the datasets
+* **[features.txt](https://github.com/vinodlakshmanan/CleaningAssignment/blob/master/getdata_projectfiles_UCI%20HAR%20Dataset/UCI%20HAR%20Dataset/features.txt)**: Listing of variables in the dataset
 
 ## Solution summary
 The script run_analysis.R performs the following tasks (not necessarily in the same order):

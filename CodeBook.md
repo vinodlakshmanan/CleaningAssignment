@@ -4,6 +4,8 @@ This document describes the variables present in the output datasets and the tra
 ## Transformations applied to variable names
 The below transformations have been applied to the original datasets, for making the names more intuitive. The variable does not contain any brackets or commas.
 
+For description of the original variable names, please refer to [features_info.txt](https://github.com/vinodlakshmanan/CleaningAssignment/blob/master/getdata_projectfiles_UCI%20HAR%20Dataset/UCI%20HAR%20Dataset/features_info.txt) and [features.txt](https://github.com/vinodlakshmanan/CleaningAssignment/blob/master/getdata_projectfiles_UCI%20HAR%20Dataset/UCI%20HAR%20Dataset/features.txt) in the original dataset.
+
 |Original variable content | Transformed variable content |
 | --- | --- |
 | tBodyAcc | time-body-accelerometer|
